@@ -1,7 +1,7 @@
 ### Hello there, I'm Jarsa132 💻
 
 ### Contact with me:
-![discord](https://discord.c99.nl/widget/theme-2/852842500828692480.png)
+![discord](https://discord.c99.nl/widget/theme-3/852842500828692480.png)
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" >
